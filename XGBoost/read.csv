@@ -6,3 +6,5 @@ inTrain <- createDataPartition(y = Train$Survived,
 
 Train <- Train[ inTrain,]
 Test <- Train[ -inTrain,]
+
+testfile
