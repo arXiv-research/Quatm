@@ -1,0 +1,4 @@
+Predicttions <- predict(object = simpleGBMModel,
+                    newData = test
+                    n.trees = ntree_opt_cv,
+                    type = "response")
