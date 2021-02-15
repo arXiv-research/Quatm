@@ -1,3 +1,3 @@
 # Quantitative-Biology
-research, development, and testing of machine learning principles applied
-towards the research & development of virtual environments with artificial neural networks
+research, and development of machine learning algorithms applied
+towards virtual environments and artificial neural networks
