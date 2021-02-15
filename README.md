@@ -1,4 +1,4 @@
 # Quantitative-Biology Testing and Research
-Research and Development of machine-learning algorithms applied
-to virtual environments and the advancement of artificial neural networks.
+Research and Development of machine-learning algorithms implemented
+in artificial neural-networks and virtual environments.
 (Wip)
