@@ -74,3 +74,12 @@ print("#"*40 + "\n")
 
                
                
+print("#"*40)
+print("\nClassifier performance test dataset\n")
+print(classification_report(y_test, y_test_pred, target_names=class_names))
+print("#"*40 + "\n")
+               
+
+plt.show()
+               
+               
