@@ -170,6 +170,8 @@ select a mini-batch of data (of size bs)
 use the model to make predictions
 calculate the loss
 loss.backward() updates the gradients of the model, in this case, weights and bias.
+
+
 We now use these gradients to update the weights and bias. We do this within the torch.no_grad() context manager, because we do not want these actions to be recorded for our next calculation of the gradient. You can read more about how PyTorch’s Autograd records operations here.
 
 We then set the gradients to zero, so that we are ready for the next loop. Otherwise, our gradients would record a running tally of all the operations that had happened (i.e. loss.backward() adds the gradients to whatever is already stored, rather than replacing them).
@@ -294,6 +296,9 @@ Now we can take advantage of model.parameters() and model.zero_grad() (which are
 with torch.no_grad():
     for p in model.parameters(): p -= p.grad * lr
     model.zero_grad()
+    
+    
+    
 We’ll wrap our little training loop in a fit function so we can run it again later.
 
 def fit():
@@ -349,6 +354,9 @@ print(loss_func(model(xb), yb))
 Out:
 
 tensor(2.2502, grad_fn=<NllLossBackward>)
+
+
+
 We are still able to use our same fit method as before.
 
 fit()
@@ -706,6 +714,9 @@ Out:
 
 0 0.3928869529247284
 1 0.23963420976996422
+
+
+
 Wrapping DataLoader
 Our CNN is fairly concise, but it only works with MNIST, because:
 It assumes the input is a 28*28 long vector
@@ -753,7 +764,9 @@ model = nn.Sequential(
 opt = optim.SGD(model.parameters(), lr=lr, momentum=0.9)
 
 
+
 Let’s try it out:
+
 
 fit(epochs, model, loss_func, opt, train_dl, valid_dl)
 
@@ -774,6 +787,9 @@ print(torch.cuda.is_available())
 Out:
 
 True
+
+
+
 And then create a device object for it:
 
 dev = torch.device(
