@@ -1,4 +1,4 @@
-# Quantitative-Biology Testing and Research
+# Max - Q    
 Research and Development of advanced machine-learning algorithms and models implemented
 in artificial neural-networks and virtual environments in a form of Time-Series execution.
 (Wip) do not recommend using until the release with tutorials, or unless 
