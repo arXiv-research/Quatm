@@ -1,0 +1,22 @@
+from aquvitae import dist, ST
+
+# Load the dataset
+train_ds = ...
+test_ds = ...
+
+# Load the teacher and student model
+teacher = ...
+student = ...
+
+optimizer = ...
+
+# Knowledge Distillation
+student = dist(
+    teacher=teacher,
+    student=student,
+    algo=ST(alpha=0.6, T=2.5),
+    optimizer=optimizer,
+    train_ds=train_ds,
+    test_ds=test_ds,
+    iterations=3000
+)
