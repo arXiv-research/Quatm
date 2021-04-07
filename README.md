@@ -1,3 +1,4 @@
-# Quantitative-Biology
-research, development, and testing of machine learning principles applied
-towards the research & development of virtual environments with artificial neural networks
+# Max - Q    
+Research and Development of advanced machine-learning algorithms and models implemented
+in artificial neural-networks and virtual environments in a form of Time-Series execution.
+Repository is a (Wip) and under construction...do not recommend using until the release with tutorials.
