@@ -7,6 +7,11 @@ in artificial neural-network and virtual environments in a form of Time-Series e
 </p>
 
 <p align="center">
+  <img src="hzjh3zjk.gif" alt="demo" />
+</p>
+
+
+<p align="center">
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
 
@@ -16,11 +21,6 @@ in artificial neural-network and virtual environments in a form of Time-Series e
 
 <p align="center">
   <img src="smart-city.gif" alt="demo" />
-</p>
-
-
-<p align="center">
-  <img src="hzjh3zjk.gif" alt="demo" />
 </p>
 
 
