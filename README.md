@@ -1,6 +1,6 @@
 # Max - Q    
 Research and Development of advanced machine-learning algorithms and models implemented
-in artificial neural-network and virtual environments in a form of Time-Series execution.
+in an artificial neural-network and virtual environment.  As a form of Time-Series execution.
 
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
