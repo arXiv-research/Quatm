@@ -24,5 +24,5 @@ in artificial neural-network and virtual environments in a form of Time-Series e
 </p>
 
 
-
+Interactive dashboards are for demonstration and display only
 Repository is a (Wip) and under construction...wait for the Public Release to clone and run properly. 
