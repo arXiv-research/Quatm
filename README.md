@@ -3,6 +3,10 @@ Research and Development of advanced machine-learning algorithms and models impl
 in artificial neural-network and virtual environments in a form of Time-Series execution.
 
 <p align="center">
+  <img src="CIM_animted_-4.gif" alt="demo" />
+</p>
+
+<p align="center">
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
 
@@ -19,8 +23,6 @@ in artificial neural-network and virtual environments in a form of Time-Series e
   <img src="hzjh3zjk.gif" alt="demo" />
 </p>
 
-<p align="center">
-  <img src="CIM_animted_-4.gif" alt="demo" />
-</p>
+
 
 Repository is a (Wip) and under construction...wait for the Public Release to clone and run properly. 
