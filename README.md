@@ -24,6 +24,6 @@ in an artificial neural-network and virtual environment.  As a form of Time-Seri
 </p>
 
 
-Interactive dashboards are for demonstration and display only.
+Interactive dashboards are for demonstration and display only! They are not the dashboards.
 
 Repository is a (Wip) and under construction...wait for the Public Release to clone and run properly. 
