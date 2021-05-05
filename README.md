@@ -1,5 +1,5 @@
 # Max - Q    
-Repo under construction and not fully functional.
+Repo under construction and a work in progress, not fully functional.
 
 Research and Development of advanced machine-learning algorithms and models implemented
 in an artificial neural-networks and virtual environments.  In a form of Time-Series execution.
