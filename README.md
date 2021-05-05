@@ -1,6 +1,8 @@
 # Max - Q    
+Repo under construction and not fully functional.
+
 Research and Development of advanced machine-learning algorithms and models implemented
-in an artificial neural-network and virtual environment.  As a form of Time-Series execution.
+in an artificial neural-networks and virtual environments.  In a form of Time-Series execution.
 
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
