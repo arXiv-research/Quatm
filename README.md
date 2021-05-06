@@ -15,4 +15,4 @@ NOTICE: Repositories are currently under construction and a (WIP) work in progre
 Interactive dashboards are for demo and display!
 Repository is a (Wip)...wait for the Public Release to clone or copy. 
 
-Copyright (c) MitchellTesla  2021 LICENSE
+Copyright (c) MitchellTesla  2021 MIT LICENSE
