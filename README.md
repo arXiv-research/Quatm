@@ -1,12 +1,12 @@
 # Max - Q    
 M-L D-L Software Database
+Research and Development Software repository of advanced machine-learning algorithms & models implemented
+in artificial neural-networks and virtual environments in some instances, as a form of Time-Series execution.
+
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional.
 <p align="center">
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
-Research and Development Software repository of advanced machine-learning algorithms & models implemented
-in artificial neural-networks and virtual environments in some instances, as a form of Time-Series execution.
-
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
 </p>
