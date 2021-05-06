@@ -1,6 +1,8 @@
 # Max - Q    
-Repo currently under construction and a work in progress, not fully functional at the moment.
-
+Repo currently under construction and a work in progress, not fully functional and requires 0auth key.
+<p align="center">
+  <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
+</p>
 Research and Development of advanced machine-learning algorithms and models implemented
 in an artificial neural-networks and virtual environments.  In a form of Time-Series execution.
 
@@ -13,19 +15,7 @@ in an artificial neural-networks and virtual environments.  In a form of Time-Se
 </p>
 
 
-<p align="center">
-  <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
-</p>
+Interactive dashboards are for demonstration and display in main only!
+Repository is a (Wip)...wait for the Public Release that does not require OAuth to clone or copy. 
 
-<p align="center">
-  <img src="1_Qd3LS4-aq7CvG-oIXlhi2A.gif" alt="demo" />
-</p>
-
-<p align="center">
-  <img src="smart-city.gif" alt="demo" />
-</p>
-
-
-Interactive dashboards are for demonstration and display only! They are not the dashboards.
-
-Repository is a (Wip) and under construction...wait for the Public Release to clone and run properly. 
+Copyright (c) MitchellTesla  2021 LICENSE
