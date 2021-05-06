@@ -1,10 +1,10 @@
 # Max - Q    
-Repo currently under construction and a work in progress, not fully functional and requires 0auth key.
+NOTICE: Repositories are currently under construction and a (WIP) work in progress, not fully-functional.
 <p align="center">
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
-Research and Development of advanced machine-learning algorithms and models implemented
-in an artificial neural-networks and virtual environments.  In some instances, as a form of Time-Series execution.
+Research and Development Software repository of advanced machine-learning algorithms & models implemented
+in artificial neural-networks and virtual environments in some instances, as a form of Time-Series execution.
 
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
@@ -14,8 +14,7 @@ in an artificial neural-networks and virtual environments.  In some instances, a
   <img src="hzjh3zjk.gif" alt="demo" />
 </p>
 
-
-Interactive dashboards are for demonstration and display in main only!
-Repository is a (Wip)...wait for the Public Release that does not require OAuth to clone or copy. 
+Interactive dashboards are for demo and display!
+Repository is a (Wip)...wait for the Public Release to clone or copy. 
 
 Copyright (c) MitchellTesla  2021 LICENSE
