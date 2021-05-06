@@ -1,4 +1,4 @@
-# Max - Q    
+# Max - Q  maximum dynamic pressure
 M-L D-L Software Database
 
 Research and Development Software repository of advanced machine-learning algorithms & models implemented
