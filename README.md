@@ -1,5 +1,6 @@
 # Max - Q    
 M-L D-L Software Database
+
 Research and Development Software repository of advanced machine-learning algorithms & models implemented
 in artificial neural-networks and virtual environments in some instances, as a form of Time-Series execution.
 
