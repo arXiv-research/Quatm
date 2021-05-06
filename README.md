@@ -1,7 +1,7 @@
 # Max - Q      maximum dynamic pressure
 M-L D-L Software Database or Repository 
 
-Research and Development of advanced machine-learning algorithms & models implemented
+Research and Development of advanced gradient boosting algorithms & models implemented
 in artificial neural-networks and virtual environments with PyTorch and Tensorflow, in some instances, as a form of Time-Series execution.
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
