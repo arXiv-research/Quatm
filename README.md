@@ -4,7 +4,7 @@ Repo currently under construction and a work in progress, not fully functional a
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
 Research and Development of advanced machine-learning algorithms and models implemented
-in an artificial neural-networks and virtual environments.  In some instances as a form of Time-Series execution.
+in an artificial neural-networks and virtual environments.  In some instances, as a form of Time-Series execution.
 
 <p align="center">
   <img src="CIM_animted_-4.gif" alt="demo" />
