@@ -1,4 +1,4 @@
-# Max - Q      maximum dynamic pressure
+# Max - Q      (maximum dynamic pressure)
 M-L D-L Software Database or Repository 
 
 Research and Development of advanced gradient boosting algorithms & models implemented
