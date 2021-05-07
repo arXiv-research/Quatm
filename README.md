@@ -3,12 +3,8 @@ M-L D-L Software Database or Repository
 
 Research and Development of advanced gradient boosting algorithms & models implemented
 in artificial neural-networks and virtual environments with PyTorch and Tensorflow, in some instances, as a form of Time-Series execution.
-<p align="center">
-  <img src="CIM_animted_-4.gif" alt="demo" />
-</p>
 
 NOTICE: Repositories are currently under construction and a (WIP) work in progress, some repos not fully-functional.
-
 <img src=https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png width=135/>  eXtreme Gradient Boosting
 ===========
 [![Build Status](https://xgboost-ci.net/job/xgboost/job/master/badge/icon)](https://xgboost-ci.net/blue/organizations/jenkins/xgboost/activity)
@@ -37,6 +33,9 @@ The same code runs on major distributed environment (Kubernetes, Hadoop, SGE, MP
 License
 -------
 © Contributors, 2019. Licensed under an [Apache-2](https://github.com/dmlc/xgboost/blob/master/LICENSE) license.
+<p align="center">
+  <img src="CIM_animted_-4.gif" alt="demo" />
+</p>
 <p align="center">
   <img src="BitesizedWeeBlacklemur-max-1mb.gif" alt="demo" />
 </p>
